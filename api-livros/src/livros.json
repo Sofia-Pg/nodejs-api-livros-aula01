@@ -1,0 +1,24 @@
+[
+    { 
+        "id": 1,
+        "titulo": "Midnight Sun",
+        "descricao": "Midnight Sun é um livro de Stephenie Meyer que reconta os fatos do livro Crepúsculo sob o ponto de vista do personagem Edward Cullen, em oposição aos outros livros da série, que são contados principalmente por Isabella Swan",
+        "autor": "Stephenie Meyer",
+        "anoPublicacao": 2020
+        },
+        {
+         "id": 2,
+        "titulo": "O Povo Brasileiro",
+        "descricao": "O Povo Brasileiro é uma obra do antropólogo brasileiro Darcy Ribeiro, lançada em 1995, que aborda a história da formação do povo brasileiro. O livro trata das matrizes culturais e dos mecanismos de formação étnica e cultural do povo brasileiro.",
+        "autor": "Darcy Ribeiro",
+        "anoPublicacao": 1995
+        },
+        {
+        "id": 3,
+        "titulo": "Os engenheiros do caos",
+        "descricao": "Como as fake news, as teorias da conspiração e os algoritmos estão sendo utilizados para disseminar ódio, medo e influenciar eleições",
+        "autor": " Giuliano da Empoli",
+        "anoPublicacao": 2019
+        }
+    
+    ]
